@@ -1,0 +1,7 @@
+streamlit==0.83.0
+ortools
+pandas==1.2.4
+folium
+xlrd==2.0.1
+openpyxl
+streamlit_folium
